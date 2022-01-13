@@ -1,0 +1,5 @@
+favorite movie : Green Mile
+favorite series: Good Doctor
+favorite food: Pizza
+favorite season: Summer
+country you would like to visit: Montenegro

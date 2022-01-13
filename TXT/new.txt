@@ -1,0 +1,4 @@
+full_name: Vladimir Nikolaevich Leshenko
+age:30,
+pets: 1 cat Peppa
+desired_Salary: 400$

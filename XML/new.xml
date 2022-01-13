@@ -1,0 +1,10 @@
+<aboutme>
+	<fullName>Vladimir Nikolaevich Leshenko</fullname>
+	<age>30</age>
+	<pets>
+		<number>1</number>
+		<kindOfPet>cat</kindofpet>
+		<name>Peppa</name>
+	<pets>
+	<desiredSalary>400$</desiredSalary>
+</aboutme>

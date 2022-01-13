@@ -1,0 +1,10 @@
+{
+	"full_name":"Vladimir Nikolaevich Leshenko",
+	"age":30,
+	"pets":{
+		"number":1,
+		"kind_of_pet":"cat",
+		"name":"Peppa"
+	},
+	"desired_Salary":"400$"
+}
